@@ -72,7 +72,7 @@ If the array, then the parameters.
 ### Кнопки можно стилизовать. Отдельно кнопку по умолчанию и отдельно кнопку выпадения меню.
 Buttons can be stylized. Separately, the default button and a separate drop-down menu button. 
 
-![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
+![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/6.png)
 ```$xslt
 ['class' => '\common\widgets\ActionButtons',
     'style_drop' => '',
