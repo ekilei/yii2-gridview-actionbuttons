@@ -1,7 +1,7 @@
 # yii2-viewgrid-actionbuttons
 Widget for Yii2 ViewGrid ActionColumn
 
-###Замена обычных кнопок на выпадабщее меню произвится сравнительно легко 
+### Замена обычных кнопок на выпадабщее меню произвится сравнительно легко 
 
 Replacement of conventional buttons on the drop-down menu will be relatively easy
 ```$xslt
@@ -15,7 +15,7 @@ Replacement of conventional buttons on the drop-down menu will be relatively eas
 ]); ?>
 ```
 
-###По умолчанию набор кнопок стандратный, однако их можно изменять, тут есть отличие от стандартного ActionColumn
+### По умолчанию набор кнопок стандратный, однако их можно изменять, тут есть отличие от стандартного ActionColumn
 
 By default, the set of buttons is standard, but you can to change, here there is a difference from standard ActionColumn
 
@@ -24,7 +24,7 @@ By default, the set of buttons is standard, but you can to change, here there is
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
 
 
-###Вариант когда какая-то кнопка не нужна.
+### Вариант когда какая-то кнопка не нужна.
 
 Option when a button is not needed.
 
@@ -34,7 +34,7 @@ Option when a button is not needed.
 ```
 
 
-###Вариант когда кнопка по умолчанию надо переставить на другую.
+### Вариант когда кнопка по умолчанию надо переставить на другую.
 
 Option when the default button should be rearranged to another.
 
@@ -44,7 +44,7 @@ Option when the default button should be rearranged to another.
 ```
 
 
-###Вариант когда надо переписать блок кнопок своими. При использовании своих кнопок, кнопки по умолчанию игнорируются.
+### Вариант когда надо переписать блок кнопок своими. При использовании своих кнопок, кнопки по умолчанию игнорируются.
 
 Option when you need to rewrite the button block with your own. When using their buttons, the buttons are ignored by default.
 
