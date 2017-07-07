@@ -1,7 +1,9 @@
 # yii2-gridview-actionbuttons
-Widget for Yii2 GridView ActionColumn
+Widget for Yii2 GridView Action Column, for adaptive versions, it is convenient to use on desktop and smartphone
 
-### Замена обычных кнопок на выпадабщее меню произвится сравнительно легко 
+Виждет для Yii2 GridView ActionColumn, для адаптивных муыкшщ, удобно в использовании на десктопе и смартфоне
+
+### Замена обычных кнопок на выпадающее меню производится сравнительно легко 
 
 Replacement of conventional buttons on the drop-down menu will be relatively easy
 ```$xslt
