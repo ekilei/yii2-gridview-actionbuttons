@@ -1,4 +1,4 @@
-# yii2-ridview-actionbuttons
+# yii2-gridview-actionbuttons
 Widget for Yii2 GridView ActionColumn
 
 ### Замена обычных кнопок на выпадабщее меню произвится сравнительно легко 
