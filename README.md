@@ -2,6 +2,7 @@
 Widget for Yii2 ViewGrid ActionColumn
 
 ###Замена обычных кнопок на выпадабщее меню произвится сравнительно легко 
+
 Replacement of conventional buttons on the drop-down menu will be relatively easy
 ```$xslt
 <?= GridView::widget([
@@ -14,18 +15,16 @@ Replacement of conventional buttons on the drop-down menu will be relatively eas
 ]); ?>
 ```
 
-###По умолчанию набор кнопок стандратный, однако их можно
-изменять, тут есть отличие от стандартного ActionColumn
+###По умолчанию набор кнопок стандратный, однако их можно изменять, тут есть отличие от стандартного ActionColumn
 
-By default, the set of buttons is standard, but you can
-To change, here there is a difference from standard ActionColumn
+By default, the set of buttons is standard, but you can to change, here there is a difference from standard ActionColumn
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/1.png)
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
 
 
-##Вариант когда какая-то кнопка не нужна.
+###Вариант когда какая-то кнопка не нужна.
 
 Option when a button is not needed.
 
@@ -35,7 +34,7 @@ Option when a button is not needed.
 ```
 
 
-Вариант когда кнопка по умолчанию надо переставить на другую.
+###Вариант когда кнопка по умолчанию надо переставить на другую.
 
 Option when the default button should be rearranged to another.
 
@@ -70,6 +69,7 @@ If the array, then the parameters.
 
 
 ### Кнопки можно стилизовать. Отдельно кнопку по умолчанию и отдельно кнопку выпадения меню.
+
 Buttons can be stylized. Separately, the default button and a separate drop-down menu button. 
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/6.png)
