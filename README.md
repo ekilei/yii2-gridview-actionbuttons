@@ -19,13 +19,16 @@ Replacement of conventional buttons on the drop-down menu will be relatively eas
 
 By default, the set of buttons is standard, but you can
 To change, here there is a difference from standard ActionColumn
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/1.png)
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
 
 
 ##Вариант когда какая-то кнопка не нужна.
 
 Option when a button is not needed.
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/3.png)
 ```$xslt
 ['class' => '\common\widgets\ActionButtons','exclude' => ['view']],
@@ -35,6 +38,7 @@ Option when a button is not needed.
 Вариант когда кнопка по умолчанию надо переставить на другую.
 
 Option when the default button should be rearranged to another.
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/4.png)
 ```$xslt
 ['class' => '\common\widgets\ActionButtons','default' => 'update'],
@@ -44,6 +48,7 @@ Option when the default button should be rearranged to another.
 ###Вариант когда надо переписать блок кнопок своими. При использовании своих кнопок, кнопки по умолчанию игнорируются.
 
 Option when you need to rewrite the button block with your own. When using their buttons, the buttons are ignored by default.
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/5.png)
 ```$xslt
 ['class' => 'common\widgets\ActionButtons','buttons' => [
@@ -66,6 +71,7 @@ If the array, then the parameters.
 
 ### Кнопки можно стилизовать. Отдельно кнопку по умолчанию и отдельно кнопку выпадения меню.
 Buttons can be stylized. Separately, the default button and a separate drop-down menu button. 
+
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
 ```$xslt
 ['class' => '\common\widgets\ActionButtons',
