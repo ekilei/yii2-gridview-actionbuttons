@@ -1,7 +1,7 @@
 # yii2-gridview-actionbuttons
 Widget for Yii2 GridView Action Column, for adaptive versions, it is convenient to use on desktop and smartphone
 
-Виждет для Yii2 GridView ActionColumn, для адаптивных муыкшщ, удобно в использовании на десктопе и смартфоне
+Виждет для Yii2 GridView ActionColumn, для адаптивных версий, удобно в использовании на десктопе и смартфоне
 
 ### Замена обычных кнопок на выпадающее меню производится сравнительно легко 
 
@@ -26,9 +26,9 @@ By default, the set of buttons is standard, but you can to change, here there is
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/2.png)
 
 
-### Вариант когда какая-то кнопка не нужна.
+### Вариант, когда какая-то кнопка не нужна.
 
-Option when a button is not needed.
+Option, when a button is not needed.
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/3.png)
 ```$xslt
@@ -36,9 +36,9 @@ Option when a button is not needed.
 ```
 
 
-### Вариант когда кнопка по умолчанию надо переставить на другую.
+### Вариант, когда кнопку по умолчанию надо переставить на другую.
 
-Option when the default button should be rearranged to another.
+Option, when the default button should be rearranged to another.
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/4.png)
 ```$xslt
@@ -46,9 +46,9 @@ Option when the default button should be rearranged to another.
 ```
 
 
-### Вариант когда надо переписать блок кнопок своими. При использовании своих кнопок, кнопки по умолчанию игнорируются.
+### Вариант, когда надо переписать блок кнопок своими. При использовании своих кнопок, кнопки по умолчанию игнорируются.
 
-Option when you need to rewrite the button block with your own. When using their buttons, the buttons are ignored by default.
+Option, when you need to rewrite the button block with your own. When using their buttons, the buttons are ignored by default.
 
 ![ScreenShot](https://raw.github.com/ekilei/yii2-viewgrid-actionbuttons/master/docfiles/5.png)
 ```$xslt
@@ -62,11 +62,11 @@ Option when you need to rewrite the button block with your own. When using their
 ]],
 ```
 > **Note:** В данном случае ключ массива служит командой действия.
-Значение имеет два состояния, если строка, то это иконка по стандарту Glyphicons,
+Значение имеет два состояния: если строка, то это иконка по стандарту Glyphicons,
 если массив, то параметры.
 
 > **Note:** In this case, the array key serves as an action command.
-The value has two states, if the string, then this is the icon for the standard Glyphicons,
+The value has two states: if the string, then this is the icon for the standard Glyphicons,
 If the array, then the parameters.
 
 
